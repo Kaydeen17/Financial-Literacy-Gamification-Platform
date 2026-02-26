@@ -1,0 +1,159 @@
+question_text: What is the primary purpose of diversifying your investments?
+correct_answer: C
+difficulty_level: 2
+A. To increase transaction fees
+B. To buy fewer shares of stock
+C. To reduce overall risk
+D. To guarantee a high return
+
+question_text: What is the main benefit of starting to invest when you are young?
+correct_answer: B
+difficulty_level: 1
+A. Lower tax rates
+B. More time for compounding to increase returns
+C. Fewer investment options are available
+D. Government subsidies for young investors
+
+question_text: If an investment earns "compounding interest," what does that mean?
+correct_answer: B
+difficulty_level: 3
+A. You only earn interest on the original amount you invested
+B. You earn interest on both the original amount and previously earned interest
+C. You have to pay tax on the interest every month
+D. The interest rate decreases over time
+
+question_text: What is the financial term for a plan for how to spend money in the future?
+correct_answer: B
+difficulty_level: 1
+A. Bank transaction log
+B. Budgeting
+C. Spending history
+D. Credit limit
+
+question_text: According to the 50/30/20 budgeting guideline, which category should receive 50% of your monthly income?
+correct_answer: B
+difficulty_level: 2
+A. Wants (non-essential costs)
+B. Needs (important costs like rent, groceries)
+C. Savings & debt repayment
+D. Travel and entertainment
+
+question_text: Which of the following is considered a "need" in a standard budget?
+correct_answer: C
+difficulty_level: 1
+A. Dining at restaurants
+B. Subscription Services
+C. Rent or Housing Payments
+D. Buying new clothes for enjoyment
+
+question_text: If you purchase a stock for $50 and the company pays you $1 per share from its profits, what is this payment called?
+correct_answer: B
+difficulty_level: 2
+A. Capital Gain
+B. Dividend
+C. Capital Loss
+D. Interest Payment
+
+question_text: In budgeting, what should a person NOT do after creating a spending plan?
+correct_answer: C
+difficulty_level: 2
+A. Stick to the budget
+B. Spend less than they earn
+C. Use credit for all items not originally in the budget
+D. Regularly track expenses
+
+question_text: What is the "Debt Avalanche" method of repayment?
+correct_answer: A
+difficulty_level: 4
+A. Paying off debts with the highest interest rates first
+B. Paying off the smallest debt balances first
+C. Consolidation of all debts into one low-interest loan
+D. Waiting until a debt is in collections to settle
+
+question_text: Which Jamaican financial institution is primarily responsible for regulating the banking sector?
+correct_answer: D
+difficulty_level: 3
+A. National Commercial Bank (NCB)
+B. Financial Services Commission (FSC)
+C. Ministry of Finance
+D. Bank of Jamaica (BOJ)
+
+question_text: What is the primary difference between a Debit card and a Credit card?
+correct_answer: A
+difficulty_level: 2
+A. Debit uses your own money; Credit is a loan from the bank
+B. Debit cards always have higher interest rates
+C. Credit cards can only be used for online purchases
+D. There is no difference between them
+
+question_text: How does inflation generally affect the purchasing power of your money?
+correct_answer: B
+difficulty_level: 2
+A. It increases the value of your cash
+B. It decreases the purchasing power over time
+C. It has no effect on local currency
+D. It automatically increases your bank account balance
+
+question_text: What is an "Emergency Fund" typically recommended for?
+correct_answer: B
+difficulty_level: 1
+A. Buying a new car for fun
+B. Covering unexpected essential expenses like medical bills
+C. Funding a summer vacation
+D. Investing in high-risk stocks
+
+question_text: Which of these is a "Liability" on a personal balance sheet?
+correct_answer: D
+difficulty_level: 2
+A. Cash in a savings account
+B. A house you own fully
+C. A stock portfolio
+D. A student loan balance
+
+question_text: If you have a credit card with an APR of 24%, what is the approximate monthly interest rate?
+correct_answer: C
+difficulty_level: 4
+A. 24%
+B. 12%
+C. 2%
+D. 0.5%
+
+question_text: What is the "Debt Snowball" method of repayment?
+correct_answer: B
+difficulty_level: 4
+A. Paying off high-interest debt first
+B. Paying off the smallest debt balances first to build momentum
+C. Ignoring debt until you have enough to pay it all at once
+D. Taking out a new loan to pay off old ones
+
+question_text: What does "Liquidity" refer to in finance?
+correct_answer: B
+difficulty_level: 2
+A. The total amount of debt a person has
+B. How quickly an asset can be converted into cash without losing value
+C. The interest rate on a long-term bond
+D. The process of filing for bankruptcy
+
+question_text: Which type of insurance is legally mandatory for vehicle owners in Jamaica?
+correct_answer: B
+difficulty_level: 2
+A. Comprehensive Insurance
+B. Third Party Insurance
+C. Life Insurance
+D. Health Insurance
+
+question_text: If you invest $1,000 at a 5% simple annual interest rate, how much interest will you earn in 3 years?
+correct_answer: C
+difficulty_level: 4
+A. $50
+B. $100
+C. $150
+D. $1,150
+
+question_text: What is the definition of "Net Worth"?
+correct_answer: A
+difficulty_level: 3
+A. Total Assets minus Total Liabilities
+B. Your total annual salary
+C. The amount of money in your checking account
+D. Your total credit limit across all cards

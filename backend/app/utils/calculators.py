@@ -1,0 +1,1 @@
+#A dedicated file for the Compound Interest formula ($A=P(1+r)^t$) and stock volatility simulations.
